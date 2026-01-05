@@ -50,7 +50,5 @@ Raw survey data makes these insights difficult to extract without structured ana
 
 ## Screenshots / Demos
 
-## Screenshots / Demos
-
 **Dashboard Preview**  
 ![Dashboard Preview](https://github.com/noorakhtar30/Workplace-Mental-Health-Stress-Analytics-Dashboard/blob/main/Workplace%20Mental%20Health%20%26%20Stress%20Analytics%20Dashboard.png?raw=true)
